@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	/*max-width: 1300px;*/
+	/*background: peru;*/
+}
+
+.page {
+	background: #ff9933;
+	/*border: 2px solid black;*/
+	margin: auto;
+	max-width: 85%;
+	height: 1200px;
+}
